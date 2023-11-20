@@ -1,0 +1,16 @@
+body {
+		background:#89D6D2 ;
+		margin:0;
+		padding:0;
+}
+#osnova{
+	background:#ffffff;
+	width:920px;
+	padding:20px;
+	margin:0 auto;
+	
+}
+#sivi{
+	background:#dddddd;
+	padding:10px;
+}
